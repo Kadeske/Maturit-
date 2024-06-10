@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "ee47649b47c2e8be",
+    "type": "split",
+    "children": [
+      {
+        "id": "719533e3905cc2dc",
+        "type": "tabs",
+        "dimension": 49.293563579277865,
+        "children": [
+          {
+            "id": "c28124ea98dd5d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Seconda rivoluzione industriale.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "f0e6e9687e177ce0"
+          }
+        ]
+      },
+      {
+        "id": "7142ca3861df2d9c",
+        "type": "tabs",
+        "dimension": 50.706436420722135,
+        "children": [
+          {
+            "id": "40a7e7b9597cc902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Seconda rivoluzione industriale.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "f0e6e9687e177ce0"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36d87069cda8bf34",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac63c8b2e64484a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d069a6e10a9b6fd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02c7db66a1a7d904",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c3bbed26c292c5a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.5
+  },
+  "right": {
+    "id": "7c7e12f9288bff20",
+    "type": "split",
+    "children": [
+      {
+        "id": "56418c86eb4f96d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4edbeb435e7dc483",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Storia/Seconda rivoluzione industriale.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f85f6e8b84eda42",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Storia/Seconda rivoluzione industriale.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c39927ce6f049a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b9ebb4bb5cf4aed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Storia/Seconda rivoluzione industriale.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "c28124ea98dd5d2d",
+  "lastOpenFiles": [
+    "Storia/Indice.md",
+    "Storia/Seconda rivoluzione industriale.md",
+    "Senza nome.md",
+    "informatica/Lock.md",
+    "informatica/Anomalie.md",
+    "informatica/Proprietà ACID.md",
+    "Storia",
+    "informatica/Discorso generale.md",
+    "informatica",
+    "informatica/Teoria del database.md",
+    "informatica/Archivio.md",
+    "informatica/Fault tolerance.md",
+    "informatica/Livelli di isolamento.md",
+    "informatica/Realizzazione di un database.md",
+    "informatica/Molteplicità.md",
+    "informatica/Interrgozione.md",
+    "informatica/Pasted image 20240603210211.png",
+    "informatica/Vincoli di integrità.md",
+    "informatica/Stored function.md",
+    "informatica/Sistema informativo.md",
+    "informatica/Progettazione di un database.md",
+    "informatica/Transazioni.md",
+    "informatica/Trigger.md",
+    "informatica/Stored routine.md",
+    "informatica/Stored Procedure.md",
+    "informatica/Normalizzazione.md",
+    "informatica/Sistema informatico.md",
+    "informatica/Partecipazione.md",
+    "informatica/DBMS (Database Management System).md",
+    "Excalidraw"
+  ]
+}
