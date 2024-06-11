@@ -6,7 +6,7 @@
       {
         "id": "f774d25e07c106ec",
         "type": "tabs",
-        "dimension": 55.4953560371517,
+        "dimension": 55.49535603715171,
         "children": [
           {
             "id": "a1446421f28cf012",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sistemi/Protocollo HTTPS.md",
+                "file": "sistemi/INDEX SISTEMI.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,8 +46,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sistemi/Protocollo HTTPS.md",
-                "mode": "preview",
+                "file": "sistemi/INDEX SISTEMI.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sistemi/Protocollo HTTPS.md",
+                "file": "sistemi/INDEX SISTEMI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sistemi/Protocollo HTTPS.md",
+                "file": "sistemi/INDEX SISTEMI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sistemi/Protocollo HTTPS.md"
+                "file": "sistemi/INDEX SISTEMI.md"
               }
             }
           }
@@ -186,12 +186,18 @@
   },
   "active": "a1446421f28cf012",
   "lastOpenFiles": [
+    "sistemi/Wireless.md",
     "sistemi/INDEX SISTEMI.md",
-    "sistemi/Protocollo HTTPS.md",
-    "\"Protocollo.md",
+    "sistemi/VPN.md",
+    "sistemi/Firewall.md",
+    "sistemi/Protocollo SSL-TLS.md",
     "sistemi/Protocollo HTTP.md",
-    "sistemi/Protocollo Telnet.md",
+    "sistemi/Crittografia.md",
+    "sistemi/VLAN.md",
     "sistemi/Protocollo FTP (File Transfer Protocol).md",
+    "\"Protocollo.md",
+    "sistemi/Protocollo HTTPS.md",
+    "sistemi/Protocollo Telnet.md",
     "sistemi",
     "informatica/Archivio.md",
     "informatica/INDEX INFORMATICA.md",
@@ -208,12 +214,6 @@
     "Storia/Prima guerra mondiale.md",
     "Storia/Belle èpoque.md",
     "Storia/Questione meridionale.md",
-    "Storia/Fotografia d'Italia nel 1861.md",
-    "Storia/Seconda rivoluzione industriale.md",
-    "Senza nome.md",
-    "informatica/Lock.md",
-    "informatica/Anomalie.md",
-    "informatica/Proprietà ACID.md",
     "Storia",
     "informatica",
     "Excalidraw"
