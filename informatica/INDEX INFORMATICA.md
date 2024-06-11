@@ -1,0 +1,18 @@
+
+- [[Teoria del database]] (Dati, Informazioni, caratteristiche db)
+- [[Sistema informativo]] 
+- [[Sistema informatico]] (cosa è, ciclo di vita)
+- [[Archivio]] INCOMPLETO
+- differenza tra archivio e db -> correlazione logica dei dati
+- [[DBMS (Database Management System)]]
+	- [[Fault tolerance]]
+- [[Realizzazione di un database]]
+- [[Progettazione di un database]]
+	- [[Vincoli di integrità]]
+	- [[Molteplicità]]
+	- [[Partecipazione]]
+- [[Transazioni]]
+	- [[Proprietà ACID]]
+- [[Anomalie]]
+- [[Stored routine]]
+- [[Lock]]

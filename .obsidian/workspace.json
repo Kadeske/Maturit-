@@ -6,7 +6,7 @@
       {
         "id": "719533e3905cc2dc",
         "type": "tabs",
-        "dimension": 47.368421052631575,
+        "dimension": 47.136222910216716,
         "children": [
           {
             "id": "c28124ea98dd5d2d",
@@ -14,19 +14,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Indice.md",
+                "file": "informatica/INDEX INFORMATICA.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "f0e6e9687e177ce0"
+          },
+          {
+            "id": "5d6c85b7fb22e076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "informatica/Realizzazione di un database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47b2540a8a9c0038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "informatica/Archivio.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "a995023075cc4fb5"
+          },
+          {
+            "id": "c486927a26dbf9f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "informatica/Sistema informatico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
       {
         "id": "7142ca3861df2d9c",
         "type": "tabs",
-        "dimension": 52.63157894736842,
+        "dimension": 52.863777089783284,
         "children": [
           {
             "id": "40a7e7b9597cc902",
@@ -34,14 +71,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Indice.md",
+                "file": "informatica/INDEX INFORMATICA.md",
                 "mode": "preview",
                 "source": false
               }
             },
             "group": "f0e6e9687e177ce0"
+          },
+          {
+            "id": "cadc49de7ceabb60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "informatica/Archivio.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "a995023075cc4fb5"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Indice.md",
+                "file": "informatica/INDEX INFORMATICA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Indice.md",
+                "file": "informatica/INDEX INFORMATICA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Indice.md"
+                "file": "informatica/INDEX INFORMATICA.md"
               }
             }
           }
@@ -174,9 +225,19 @@
   },
   "active": "c28124ea98dd5d2d",
   "lastOpenFiles": [
+    "informatica/Realizzazione di un database.md",
+    "informatica/INDEX INFORMATICA.md",
+    "informatica/Progettazione di un database.md",
+    "informatica/Archivio.md",
+    "informatica/Sistema informatico.md",
+    "informatica/Sistema informativo.md",
+    "informatica/Normalizzazione.md",
+    "informatica/Fault tolerance.md",
+    "informatica/Pasted image 20240603210211.png",
+    "informatica/Teoria del database.md",
+    "Storia/Indice.md",
     "Storia/Errori di Versailles.md",
     "Storia/Prima guerra mondiale.md",
-    "Storia/Indice.md",
     "Storia/Belle èpoque.md",
     "Storia/Questione meridionale.md",
     "Storia/Fotografia d'Italia nel 1861.md",
@@ -188,21 +249,11 @@
     "Storia",
     "informatica/Discorso generale.md",
     "informatica",
-    "informatica/Teoria del database.md",
-    "informatica/Archivio.md",
-    "informatica/Fault tolerance.md",
     "informatica/Livelli di isolamento.md",
-    "informatica/Realizzazione di un database.md",
     "informatica/Molteplicità.md",
     "informatica/Interrgozione.md",
-    "informatica/Pasted image 20240603210211.png",
     "informatica/Vincoli di integrità.md",
     "informatica/Stored function.md",
-    "informatica/Sistema informativo.md",
-    "informatica/Progettazione di un database.md",
-    "informatica/Transazioni.md",
-    "informatica/Trigger.md",
-    "informatica/Stored routine.md",
     "Excalidraw"
   ]
 }

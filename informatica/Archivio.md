@@ -38,5 +38,5 @@ MEMORIZZAZIONE A BLOCCHI
 	un blocco può contenere più record logici.
 
 
-a
+
 
