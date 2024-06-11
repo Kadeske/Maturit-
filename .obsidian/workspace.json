@@ -4,55 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "719533e3905cc2dc",
+        "id": "f774d25e07c106ec",
         "type": "tabs",
-        "dimension": 47.136222910216716,
+        "dimension": 55.4953560371517,
         "children": [
           {
-            "id": "c28124ea98dd5d2d",
+            "id": "a1446421f28cf012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "informatica/INDEX INFORMATICA.md",
+                "file": "sistemi/Protocollo HTTPS.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "f0e6e9687e177ce0"
+            "group": "6a707fec1b170251"
           },
           {
-            "id": "5d6c85b7fb22e076",
+            "id": "3b410452e1c08103",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "informatica/Realizzazione di un database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47b2540a8a9c0038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "informatica/Archivio.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "a995023075cc4fb5"
-          },
-          {
-            "id": "c486927a26dbf9f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "informatica/Sistema informatico.md",
+                "file": "sistemi/Protocollo HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,38 +36,24 @@
         ]
       },
       {
-        "id": "7142ca3861df2d9c",
+        "id": "93a1e8277bdc20e1",
         "type": "tabs",
-        "dimension": 52.863777089783284,
+        "dimension": 44.50464396284829,
         "children": [
           {
-            "id": "40a7e7b9597cc902",
+            "id": "79be680416dcc303",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "informatica/INDEX INFORMATICA.md",
+                "file": "sistemi/Protocollo HTTPS.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "f0e6e9687e177ce0"
-          },
-          {
-            "id": "cadc49de7ceabb60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "informatica/Archivio.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "a995023075cc4fb5"
+            "group": "6a707fec1b170251"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "informatica/INDEX INFORMATICA.md",
+                "file": "sistemi/Protocollo HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "informatica/INDEX INFORMATICA.md",
+                "file": "sistemi/Protocollo HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "informatica/INDEX INFORMATICA.md"
+                "file": "sistemi/Protocollo HTTPS.md"
               }
             }
           }
@@ -223,13 +184,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c28124ea98dd5d2d",
+  "active": "a1446421f28cf012",
   "lastOpenFiles": [
-    "informatica/Realizzazione di un database.md",
-    "informatica/INDEX INFORMATICA.md",
-    "informatica/Progettazione di un database.md",
+    "sistemi/INDEX SISTEMI.md",
+    "sistemi/Protocollo HTTPS.md",
+    "\"Protocollo.md",
+    "sistemi/Protocollo HTTP.md",
+    "sistemi/Protocollo Telnet.md",
+    "sistemi/Protocollo FTP (File Transfer Protocol).md",
+    "sistemi",
     "informatica/Archivio.md",
+    "informatica/INDEX INFORMATICA.md",
     "informatica/Sistema informatico.md",
+    "informatica/Realizzazione di un database.md",
+    "informatica/Progettazione di un database.md",
     "informatica/Sistema informativo.md",
     "informatica/Normalizzazione.md",
     "informatica/Fault tolerance.md",
@@ -247,13 +215,7 @@
     "informatica/Anomalie.md",
     "informatica/Proprietà ACID.md",
     "Storia",
-    "informatica/Discorso generale.md",
     "informatica",
-    "informatica/Livelli di isolamento.md",
-    "informatica/Molteplicità.md",
-    "informatica/Interrgozione.md",
-    "informatica/Vincoli di integrità.md",
-    "informatica/Stored function.md",
     "Excalidraw"
   ]
 }
