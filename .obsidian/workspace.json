@@ -6,7 +6,7 @@
       {
         "id": "719533e3905cc2dc",
         "type": "tabs",
-        "dimension": 49.293563579277865,
+        "dimension": 47.368421052631575,
         "children": [
           {
             "id": "c28124ea98dd5d2d",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Seconda rivoluzione industriale.md",
+                "file": "Storia/Indice.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
       {
         "id": "7142ca3861df2d9c",
         "type": "tabs",
-        "dimension": 50.706436420722135,
+        "dimension": 52.63157894736842,
         "children": [
           {
             "id": "40a7e7b9597cc902",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Seconda rivoluzione industriale.md",
+                "file": "Storia/Indice.md",
                 "mode": "preview",
                 "source": false
               }
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 200
   },
   "right": {
     "id": "7c7e12f9288bff20",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Seconda rivoluzione industriale.md",
+                "file": "Storia/Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Seconda rivoluzione industriale.md",
+                "file": "Storia/Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Seconda rivoluzione industriale.md"
+                "file": "Storia/Indice.md"
               }
             }
           }
@@ -167,14 +167,19 @@
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c28124ea98dd5d2d",
   "lastOpenFiles": [
+    "Storia/Errori di Versailles.md",
+    "Storia/Prima guerra mondiale.md",
     "Storia/Indice.md",
+    "Storia/Belle èpoque.md",
+    "Storia/Questione meridionale.md",
+    "Storia/Fotografia d'Italia nel 1861.md",
     "Storia/Seconda rivoluzione industriale.md",
     "Senza nome.md",
     "informatica/Lock.md",
@@ -198,11 +203,6 @@
     "informatica/Transazioni.md",
     "informatica/Trigger.md",
     "informatica/Stored routine.md",
-    "informatica/Stored Procedure.md",
-    "informatica/Normalizzazione.md",
-    "informatica/Sistema informatico.md",
-    "informatica/Partecipazione.md",
-    "informatica/DBMS (Database Management System).md",
     "Excalidraw"
   ]
 }

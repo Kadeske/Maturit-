@@ -56,3 +56,18 @@ Edison tentò di sminuire la AC, dimostrando la sua pericolosità anche sugli an
 
 La corrente alternata si dimostrò comunque superiore e diventò lo standard ancora utilizzato per la distribuzione elettrica.
 
+La scoperta dei campi elettromagnetici di tesla dimostrò come l'elettricità potesse essere trasportata nello spazio senza fili.
+<br> Questa scoperta diede vita a nuove invenzioni come: 
+- La radio -> trasmissione di voce e suoni per lunghe distanze
+- Televisione -> oltre ai suoni trasmette immagini
+- Comunicazioni satellitari -> COLLEGAMENTO SISTEMI
+- Telefonia mobile -> COLLEGAMENTO SISTEMI
+
+
+
+# Situazione in italia
+In Italia la rivoluzione arriva più tardi, nonostante ciò il paese assiste comunque ad un cambiamento significativo, con la nascita di grandi complessi industriali e grandi infrastrutture.
+
+Si notarono delle differenze tra nord e sud.<br> Al nord ci fu una forte industrializzazione, mentre al sud lo sviluppo continuava ad essere in ritardo e le infrastrutture scadenti, la cosa portò a dei problemi sociali quali le condizioni di vita, l'emigrazione e la povertà.
+
+COLLEGAMENTO A ITALIANO (VERGA)
