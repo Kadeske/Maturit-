@@ -1,0 +1,13 @@
+
+- [[Sistemi distribuiti]]: Classificazione, vantaggi e svantaggi 
+- [[Architetture distribuite hardware]]
+- [[Architettura client-server]]
+- Linguaggio XML e JSON, confronto 
+- I [[Socket]]: 
+	- generalità, 
+	- tipi di socket, 
+	- unicast e multicast. 
+- Servlet: Struttura, ciclo di vita e deployment 
+- Connessione al database in java: tipi di driver JDBC 
+- Introduzione ai WS: SOAP e REST 
+- Cenni su Android

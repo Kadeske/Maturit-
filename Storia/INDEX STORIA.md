@@ -4,7 +4,7 @@
 - [[Belle èpoque]]
 - [[Prima guerra mondiale]]
 - [[Errori di Versailles]]
-- Fascismo
+- [[Fascismo]]
 
 **Metodo**
 

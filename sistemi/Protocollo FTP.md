@@ -1,5 +1,5 @@
 
-**FTP** è un protocollo di rete utilizzato per **trasferire file** tra un *client* e un *server* su una rete TCP/IP.
+**FTP** (File Transfer Protocol) è un protocollo di rete utilizzato per **trasferire file** tra un *client* e un *server* su una rete TCP/IP.
 
 **Applicazioni:**
 

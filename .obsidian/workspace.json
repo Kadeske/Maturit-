@@ -4,41 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "f774d25e07c106ec",
-        "type": "tabs",
-        "dimension": 55.49535603715171,
-        "children": [
-          {
-            "id": "a1446421f28cf012",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sistemi/INDEX SISTEMI.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "6a707fec1b170251"
-          },
-          {
-            "id": "3b410452e1c08103",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sistemi/Protocollo HTTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "93a1e8277bdc20e1",
         "type": "tabs",
-        "dimension": 44.50464396284829,
         "children": [
           {
             "id": "79be680416dcc303",
@@ -46,12 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sistemi/INDEX SISTEMI.md",
+                "file": "tpsit/INDEX TPSIT.md",
                 "mode": "source",
                 "source": false
               }
             },
-            "group": "6a707fec1b170251"
+            "group": "c96ef39cef217236"
+          }
+        ]
+      },
+      {
+        "id": "20b15c4254bcda87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ca492f9f628da66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tpsit/INDEX TPSIT.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "c96ef39cef217236"
           }
         ]
       }
@@ -119,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sistemi/INDEX SISTEMI.md",
+                "file": "tpsit/INDEX TPSIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sistemi/INDEX SISTEMI.md",
+                "file": "tpsit/INDEX TPSIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sistemi/INDEX SISTEMI.md"
+                "file": "tpsit/INDEX TPSIT.md"
               }
             }
           }
@@ -184,20 +170,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a1446421f28cf012",
+  "active": "79be680416dcc303",
   "lastOpenFiles": [
-    "sistemi/Wireless.md",
+    "tpsit/Socket.md",
+    "tpsit/INDEX TPSIT.md",
+    "tpsit/Architetture distribuite hardware.md",
+    "tpsit/Architettura client-server.md",
+    "sistemi/Protocollo FTP.md",
+    "sistemi/Protocollo HTTP.md",
+    "sistemi/Protocollo Telnet.md",
+    "tpsit/Sistemi distribuiti.md",
+    "Storia/INDEX STORIA.md",
+    "Storia/Fascismo.md",
+    "italiano",
+    "gpoi",
+    "Senza nome.md",
     "sistemi/INDEX SISTEMI.md",
+    "tpsit",
+    "sistemi/Wireless.md",
     "sistemi/VPN.md",
     "sistemi/Firewall.md",
     "sistemi/Protocollo SSL-TLS.md",
-    "sistemi/Protocollo HTTP.md",
     "sistemi/Crittografia.md",
     "sistemi/VLAN.md",
-    "sistemi/Protocollo FTP (File Transfer Protocol).md",
     "\"Protocollo.md",
     "sistemi/Protocollo HTTPS.md",
-    "sistemi/Protocollo Telnet.md",
     "sistemi",
     "informatica/Archivio.md",
     "informatica/INDEX INFORMATICA.md",
@@ -205,15 +202,7 @@
     "informatica/Realizzazione di un database.md",
     "informatica/Progettazione di un database.md",
     "informatica/Sistema informativo.md",
-    "informatica/Normalizzazione.md",
-    "informatica/Fault tolerance.md",
     "informatica/Pasted image 20240603210211.png",
-    "informatica/Teoria del database.md",
-    "Storia/Indice.md",
-    "Storia/Errori di Versailles.md",
-    "Storia/Prima guerra mondiale.md",
-    "Storia/Belle èpoque.md",
-    "Storia/Questione meridionale.md",
     "Storia",
     "informatica",
     "Excalidraw"

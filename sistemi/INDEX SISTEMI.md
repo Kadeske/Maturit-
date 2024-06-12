@@ -1,6 +1,6 @@
 
 - ISO/OSI
-	- [[Protocollo FTP (File Transfer Protocol)]]
+	- [[Protocollo FTP]]
 	- [Protocollo Telnet](Protocollo%20Telnet)
 	- [Protocollo HTTP](Protocollo%20HTTP)
 		- Operazioni CRUD
