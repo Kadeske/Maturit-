@@ -7,7 +7,9 @@
 	- generalità, 
 	- tipi di socket, 
 	- unicast e multicast. 
-- Servlet: Struttura, ciclo di vita e deployment 
-- Connessione al database in java: tipi di driver JDBC 
-- Introduzione ai WS: SOAP e REST 
-- Cenni su Android
+- [[Servlet]]: 
+	- Struttura, 
+	- ciclo di vita e deployment 
+- Connessione al database in java: tipi di [[Driver JDBC]]
+- Introduzione ai [[Web Service]]: SOAP e REST 
+- Cenni su [[Android]]
