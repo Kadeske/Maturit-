@@ -6,6 +6,7 @@
       {
         "id": "93a1e8277bdc20e1",
         "type": "tabs",
+        "dimension": 68.96284829721363,
         "children": [
           {
             "id": "79be680416dcc303",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tpsit/INDEX TPSIT.md",
+                "file": "gpoi/Unità 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +26,7 @@
       {
         "id": "20b15c4254bcda87",
         "type": "tabs",
+        "dimension": 31.037151702786375,
         "children": [
           {
             "id": "8ca492f9f628da66",
@@ -32,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tpsit/INDEX TPSIT.md",
+                "file": "gpoi/Unità 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tpsit/INDEX TPSIT.md",
+                "file": "gpoi/Unità 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tpsit/INDEX TPSIT.md",
+                "file": "gpoi/Unità 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tpsit/INDEX TPSIT.md"
+                "file": "gpoi/Unità 2.md"
               }
             }
           }
@@ -170,14 +172,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79be680416dcc303",
+  "active": "8ca492f9f628da66",
   "lastOpenFiles": [
-    "tpsit/Android.md",
+    "gpoi/INDEX GPOI.md",
+    "gpoi/Unità 2.md",
+    "gpoi/Unità 1.md",
     "tpsit/INDEX TPSIT.md",
+    "tpsit/Socket.md",
+    "tpsit/Android.md",
     "tpsit/Web Service.md",
     "tpsit/Driver JDBC.md",
     "tpsit/Servlet.md",
-    "tpsit/Socket.md",
     "tpsit/Architetture distribuite hardware.md",
     "tpsit/Architettura client-server.md",
     "sistemi/Protocollo FTP.md",
@@ -198,10 +203,7 @@
     "sistemi/Crittografia.md",
     "sistemi/VLAN.md",
     "\"Protocollo.md",
-    "sistemi/Protocollo HTTPS.md",
     "sistemi",
-    "informatica/Archivio.md",
-    "informatica/INDEX INFORMATICA.md",
     "informatica/Pasted image 20240603210211.png",
     "Storia",
     "informatica",
