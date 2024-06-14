@@ -43,7 +43,7 @@
 	- storia, 
 	- società e cultura. 
 	- Positivismo, Naturalismo e Verismo. 
-- Giovanni Verga 
+- [[Giovanni Verga]]
 	- La vita: notizie essenziali. 
 	- Il Verismo e le sue tecniche. 
 	- La produzione verista: 
@@ -52,11 +52,11 @@
 		- Novelle: 
 			- Rosso Malpelo, 
 			- La roba. 
-- Decadentismo: 
+- [[Decadentismo]]: 
 	- origine francese, 
 	- temi e sviluppo in Italia. 
 	- Simbolismo ed Estetismo. 
-- Giovanni Pascoli 
+- [[Giovanni Pascoli]]
 	- La vita: notizie essenziali. 
 	- Raccolte poetiche: 
 		- Canti di Castelvecchio. 
@@ -65,8 +65,9 @@
 	- Brani antologizzati: 
 		- L'eterno fanciullo che è in noi, 
 		- X Agosto. 
-- Gabriele D'Annunzio La vita: 
-	- notizie essenziali. 
+- [[Gabriele D'Annunzio]]
+	- La vita: 
+		- notizie essenziali. 
 	- Il superomismo. 
 	- Brano antologizzato:
 		- Il manifesto del superuomo, 

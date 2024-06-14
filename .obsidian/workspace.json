@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "93a1e8277bdc20e1",
+        "id": "d33954257a8d2a0b",
         "type": "tabs",
         "children": [
           {
-            "id": "79be680416dcc303",
+            "id": "e1a58395fc0d47df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "italiano/INDEX ITALIANO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30353c311d610d43",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,36 +163,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79be680416dcc303",
+  "active": "30353c311d610d43",
   "lastOpenFiles": [
-    "informatica/Vincoli di integrità.md",
+    "italiano/Gabriele D'Annunzio.md",
     "italiano/INDEX ITALIANO.md",
-    "italiano/Alessandro Manzoni.md",
+    "italiano/Giovanni Pascoli.md",
+    "italiano/Decadentismo.md",
+    "italiano/Giovanni Verga.md",
+    "Relazione PCTO.md",
+    "tpsit/Web Service.md",
+    "italiano/Primo '800.md",
+    "sistemi/Wireless.md",
+    "sistemi/VPN.md",
+    "sistemi/VLAN.md",
+    "sistemi/Protocollo SSL-TLS.md",
+    "sistemi/Protocollo HTTPS.md",
+    "sistemi/Protocollo HTTP.md",
+    "italiano/secondo '800.md",
+    "italiano/Giacomo Leopardi.md",
     "- Il romanzo in Europa.md",
+    "informatica/Vincoli di integrità.md",
+    "italiano/Alessandro Manzoni.md",
     "italiano/Il romanzo in europa.md",
     "italiano/Ugo Foscolo.md",
-    "italiano/Primo '800.md",
     "gpoi/Unità 1.md",
     "gpoi/Unità 2.md",
     "gpoi/INDEX GPOI.md",
     "tpsit/INDEX TPSIT.md",
     "tpsit/Socket.md",
-    "tpsit/Android.md",
-    "tpsit/Web Service.md",
-    "tpsit/Driver JDBC.md",
-    "tpsit/Servlet.md",
-    "tpsit/Architetture distribuite hardware.md",
-    "tpsit/Architettura client-server.md",
-    "sistemi/Protocollo FTP.md",
-    "sistemi/Protocollo HTTP.md",
-    "sistemi/Protocollo Telnet.md",
-    "tpsit/Sistemi distribuiti.md",
-    "Storia/INDEX STORIA.md",
-    "Storia/Fascismo.md",
     "italiano",
     "gpoi",
-    "Senza nome.md",
-    "sistemi/INDEX SISTEMI.md",
     "tpsit",
     "sistemi",
     "informatica/Pasted image 20240603210211.png",
