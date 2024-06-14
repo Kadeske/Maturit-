@@ -27,7 +27,7 @@
 		- Fra Cristoforo dinanzi a Don Rodrigo, 
 		- Il ritratto della monaca di Monza, 
 		- Il “sugo di tutta la storia.
-- Giacomo Leopardi 
+- [[Giacomo Leopardi ]]
 	- La vita: notizie essenziali. 
 	- La poetica del vago e dell'indefinito.
 	- Dal pessimismo storico al pessimismo cosmico. 
@@ -39,3 +39,35 @@
 		- L'infinito, 
 		- A Silvia, 
 		- La ginestra o il fiore del deserto vv. 1-37.
+- Il [secondo Ottocento](secondo%20'800): 
+	- storia, 
+	- società e cultura. 
+	- Positivismo, Naturalismo e Verismo. 
+- Giovanni Verga 
+	- La vita: notizie essenziali. 
+	- Il Verismo e le sue tecniche. 
+	- La produzione verista: 
+		- Vita dei campi e Novelle rusticane. 
+		- La rappresentazione degli umili e la concezione della vita. 
+		- Novelle: 
+			- Rosso Malpelo, 
+			- La roba. 
+- Decadentismo: 
+	- origine francese, 
+	- temi e sviluppo in Italia. 
+	- Simbolismo ed Estetismo. 
+- Giovanni Pascoli 
+	- La vita: notizie essenziali. 
+	- Raccolte poetiche: 
+		- Canti di Castelvecchio. 
+	- I grandi temi: 
+		- il Fanciullino e il nido. 
+	- Brani antologizzati: 
+		- L'eterno fanciullo che è in noi, 
+		- X Agosto. 
+- Gabriele D'Annunzio La vita: 
+	- notizie essenziali. 
+	- Il superomismo. 
+	- Brano antologizzato:
+		- Il manifesto del superuomo, 
+		- da Le vergini delle rocce. 
