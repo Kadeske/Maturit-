@@ -6,7 +6,6 @@
       {
         "id": "93a1e8277bdc20e1",
         "type": "tabs",
-        "dimension": 68.96284829721363,
         "children": [
           {
             "id": "79be680416dcc303",
@@ -14,32 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gpoi/Unità 2.md",
+                "file": "italiano/INDEX ITALIANO.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "c96ef39cef217236"
-          }
-        ]
-      },
-      {
-        "id": "20b15c4254bcda87",
-        "type": "tabs",
-        "dimension": 31.037151702786375,
-        "children": [
-          {
-            "id": "8ca492f9f628da66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gpoi/Unità 2.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "c96ef39cef217236"
+            }
           }
         ]
       }
@@ -107,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gpoi/Unità 2.md",
+                "file": "italiano/INDEX ITALIANO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gpoi/Unità 2.md",
+                "file": "italiano/INDEX ITALIANO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gpoi/Unità 2.md"
+                "file": "italiano/INDEX ITALIANO.md"
               }
             }
           }
@@ -172,11 +150,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ca492f9f628da66",
+  "active": "79be680416dcc303",
   "lastOpenFiles": [
-    "gpoi/INDEX GPOI.md",
-    "gpoi/Unità 2.md",
+    "informatica/Vincoli di integrità.md",
+    "italiano/INDEX ITALIANO.md",
+    "italiano/Alessandro Manzoni.md",
+    "- Il romanzo in Europa.md",
+    "italiano/Il romanzo in europa.md",
+    "italiano/Ugo Foscolo.md",
+    "italiano/Primo '800.md",
     "gpoi/Unità 1.md",
+    "gpoi/Unità 2.md",
+    "gpoi/INDEX GPOI.md",
     "tpsit/INDEX TPSIT.md",
     "tpsit/Socket.md",
     "tpsit/Android.md",
@@ -196,13 +181,6 @@
     "Senza nome.md",
     "sistemi/INDEX SISTEMI.md",
     "tpsit",
-    "sistemi/Wireless.md",
-    "sistemi/VPN.md",
-    "sistemi/Firewall.md",
-    "sistemi/Protocollo SSL-TLS.md",
-    "sistemi/Crittografia.md",
-    "sistemi/VLAN.md",
-    "\"Protocollo.md",
     "sistemi",
     "informatica/Pasted image 20240603210211.png",
     "Storia",
