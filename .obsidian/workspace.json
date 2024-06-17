@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "c41b1e2f096d1313",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Relazione PCTO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "30353c311d610d43",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sistemi/VPN.md",
+                "file": "Relazione PCTO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sistemi/VPN.md",
+                "file": "Relazione PCTO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sistemi/VPN.md"
+                "file": "Relazione PCTO.md"
               }
             }
           }
@@ -158,8 +171,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e1a58395fc0d47df",
+  "active": "c41b1e2f096d1313",
   "lastOpenFiles": [
+    "sistemi/VPN.md",
+    "Relazione PCTO.md",
     "Storia/INDEX STORIA.md",
     "gpoi/INDEX GPOI.md",
     "sistemi/INDEX SISTEMI.md",
@@ -176,7 +191,6 @@
     "sistemi/Firewall.md",
     "tpsit/Sistemi distribuiti.md",
     "sistemi/VLAN.md",
-    "sistemi/VPN.md",
     "italiano/INDEX ITALIANO.md",
     "sistemi/Wireless.md",
     "Senza nome.canvas",
@@ -186,7 +200,6 @@
     "italiano/Giovanni Verga.md",
     "tpsit/Web Service.md",
     "italiano/Primo '800.md",
-    "italiano/secondo '800.md",
     "italiano",
     "gpoi",
     "tpsit",
