@@ -1,4 +1,3 @@
-### Schema: Sicurezza nelle Reti Wireless
 
 ---
 

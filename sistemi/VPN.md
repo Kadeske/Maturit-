@@ -25,7 +25,7 @@ Una **VPN (Virtual Private Network)** è una rete privata che utilizza segmenti 
   - Estende una LAN su più sedi tramite l'incanalamento dei pacchetti.
   - Non cifra i dati, li incapsula solamente.
 
-- **L2TP (Layer 2 Tunneling Protocol)**:
+- **L2TP (Layer 2 Tunneling Protocol) detto anche IPsec** :
   - Combina PPTP con l'inoltro a livello 2.
   - Usato per supportare le VPN come parte di servizi ISP.
   - Non fornisce crittografia direttamente, ma utilizza un protocollo di crittografia all'interno del tunnel.

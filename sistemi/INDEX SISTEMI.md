@@ -1,7 +1,7 @@
-
+  
 - ISO/OSI
 	- [[Protocollo FTP]]
-	- [Protocollo Telnet](Protocollo%20Telnet)
+	- [Protocollo Telnet](Protocollo%20Telnet) (Meglio usare il [[Protocollo SSH]])
 	- [Protocollo HTTP](Protocollo%20HTTP)
 		- Operazioni CRUD
 		- codici di stato
@@ -17,6 +17,7 @@
 	- Asimmetrica 
 	- Firma digitale
 	- Algoritmo MD5 (Hashing)
+	- [[Certification Authority (CA)]]
 - Sicurezza nelle reti
 	- Problematiche
 	- [Protocollo SSL/TLS](Protocollo%20SSL-TLS)

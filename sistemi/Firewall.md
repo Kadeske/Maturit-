@@ -1,6 +1,6 @@
 #### Cos'è un Firewall?
 
-Un **firewall** è un sistema software, spesso con hardware dedicato, progettato per la **difesa perimetrale** di una rete. Il suo obiettivo è proteggere la rete interna filtrando il traffico di pacchetti in entrata e in uscita secondo regole predefinite. Generalmente è costituito da più macchine che lavorano insieme come un sistema distribuito.
+Un **firewall** è un sistema software, spesso con hardware dedicato, progettato per la **difesa perimetrale** di una rete. Il suo obiettivo è proteggere la rete interna filtrando il traffico di pacchetti in entrata e in uscita secondo regole predefinite. Generalmente è costituito da più macchine che lavorano insieme come un [sistema distribuito](Sistemi%20distribuiti).
 
 #### Principi Fondamentali dei Firewall
 

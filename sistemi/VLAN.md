@@ -27,10 +27,10 @@ Le **VLAN** sono LAN realizzate utilizzando lo standard **802.1Q**.
 - Utilizza i numeri delle porte per realizzare VLAN differenti, ogni porta viene chiamata **Access port**.
 - È un metodo semplice ma meno sicuro; qualunque dispositivo fisicamente connesso farà parte di quella VLAN.
 
-**Operazioni degli switch in una VLAN port based:**
-- **Ingress**: il frame appartiene alla VLAN stessa e non ha bisogno di essere identificato.
-- **Forwarding**: il frame può essere inviato solo su porte appartenenti alla stessa VLAN.
-- **Egress**: determinata porta in cui passa il frame, può essere trasmesso senza modifiche.
+**Operazioni degli switch in una VLAN basata su porta:**
+1. **Ingress**: Il frame entra nello switch su una porta appartenente a una VLAN specifica e viene associato automaticamente a quella VLAN senza necessità di ulteriori identificazioni.
+2. **Forwarding**: Il frame viene inoltrato solo alle porte dello switch che appartengono alla stessa VLAN di origine.
+3. **Egress**: Il frame esce dalla porta specifica associata alla VLAN di appartenenza e può essere trasmesso senza ulteriori modifiche al frame stesso.
 
 ### VLAN Tagged, Untagged e Ibride
 
@@ -39,18 +39,23 @@ Le **VLAN** sono LAN realizzate utilizzando lo standard **802.1Q**.
 - Permette di condividere una VLAN in più switch, modificando il formato del pacchetto aggiungendo 4 byte (**TAG**) che contengono più informazioni sulla VLAN.
 - Ogni porta tagged è chiamata **trunk**.
 
-**Operazioni degli switch in una VLAN tagged:**
-- Quando un pacchetto (appartenente ad una VLAN) entra in una porta trunk, verranno aggiunti 4 byte di **TAG** (i quali indicano l’appartenenza alla VLAN). Se sta uscendo da una porta trunk, quei byte verranno rimossi.
-- Se il pacchetto esce da una porta untagged, verrà privato del TAG.
+**Porte tagged (trunk):**
+- Una porta ***trunk*** è una porta di uno switch configurata per trasportare traffico appartenente a più VLAN contemporaneamente.
+- Se una porta è TAGGED, i frame trasporteranno le informazioni di TAG, che indica l'appartenenza ad una VLAN.
+- Queste porte sono dette **trunk**, il loro link associato è detto **trunk link**.
+
 
 **Formato del TAG:**
 - **Primi 2 byte**: chiamati **TPI** (Tag Protocol Identifier), contengono il numero **EtherType**, che evidenzia il nuovo formato del frame.
 - **Byte 3-4**: detti **TCI** (Tag Control Information), contengono il livello di priorità del frame.
 
-**Porte tagged (trunk):**
-- Se una porta è TAGGED, i frame trasporteranno le informazioni di TAG, che indica l'appartenenza ad una VLAN.
-- Queste porte sono dette **trunk**, il loro link associato è detto **trunk link**.
-
+**Operazioni degli switch in una VLAN tagged:**
+- Quando un pacchetto con tag VLAN *x* entra in una porta <mark style="background: #ABF7F7A6;">tagged</mark> possono succedere due cose:
+	- se la porta è <mark style="background: #ABF7F7A6;">tagged</mark> VLAN *X* il pacchetto viene fatto passare
+	- altrimenti, se la porta è <mark style="background: #ABF7F7A6;">tagged</mark> VLAN *Y* il pacchetto viene scartato
+- Il pacchetto dopo essere entrato su una porta <mark style="background: #ABF7F7A6;">tagged</mark> potrà essere inoltrato solo su porte (<mark style="background: #ABF7F7A6;">tagged</mark> o <mark style="background: #FF5582A6;">untagged</mark>) della stessa VLAN.
+	- se esce da una porta <mark style="background: #ABF7F7A6;">tagged</mark>, sarà taggato come VLAN *x*
+	- se esce da una porta <mark style="background: #FF5582A6;">untagged</mark> sarà privato del TAG.
 #### VLAN Untagged (Access)
 
 - I frame che passano per queste porte non trasportano TAG, sono dette **access port** (access link).
@@ -59,6 +64,7 @@ Le **VLAN** sono LAN realizzate utilizzando lo standard **802.1Q**.
 
 - Le porte ibride possono accettare sia frame taggati che non taggati.
 - Questo tipo di porta può essere utilizzato per configurazioni più flessibili in cui è necessario gestire più tipi di traffico.
+
 
 ### Protocollo VTP (Virtual Trunking Protocol)
 
