@@ -13,34 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sistemi/VPN.md",
+                "file": "Storia/INDEX STORIA.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "c41b1e2f096d1313",
+            "id": "dbaaffc570b04df0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relazione PCTO.md",
-                "mode": "source",
+                "file": "Storia/Belle èpoque.md",
+                "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "30353c311d610d43",
+            "id": "7a0518c4addca440",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Seconda rivoluzione industriale.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebbd195e3852435d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Questione meridionale.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "36c1eb11f7b0eebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Seconda rivoluzione industriale.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1a14c4f4bf716ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "italiano/Giovanni Verga.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e4ae5f9f34d79cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "italiano/Alessandro Manzoni.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -106,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relazione PCTO.md",
+                "file": "italiano/Alessandro Manzoni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relazione PCTO.md",
+                "file": "italiano/Alessandro Manzoni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relazione PCTO.md"
+                "file": "italiano/Alessandro Manzoni.md"
               }
             }
           }
@@ -171,40 +223,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c41b1e2f096d1313",
+  "active": "4e4ae5f9f34d79cb",
   "lastOpenFiles": [
-    "sistemi/VPN.md",
-    "Relazione PCTO.md",
+    "italiano/Giovanni Verga.md",
+    "Storia/Seconda rivoluzione industriale.md",
+    "Storia/Fotografia d'Italia nel 1861.md",
     "Storia/INDEX STORIA.md",
+    "Storia/Belle èpoque.md",
+    "Storia/Questione meridionale.md",
     "gpoi/INDEX GPOI.md",
+    "tpsit/Architetture distribuite hardware.md",
+    "gpoi/Unità 3.md",
+    "gpoi/Deliverable.md",
+    "gpoi/Stakeholder.md",
+    "gpoi/Interviste.md",
+    "gpoi/Strutture organizzative.md",
+    "informatica/Transazioni.md",
+    "informatica/INDEX INFORMATICA.md",
+    "sistemi/Firewall.md",
+    "informatica/Pasted image 20240603210211.png",
+    "gpoi/img/diagramma_gnatt.jpg",
+    "gpoi/img/diagramma_gnatt.jpg.crdownload",
+    "gpoi/img",
+    "gpoi/Unità 1.md",
+    "gpoi/Unità 2.md",
+    "sistemi/Protocollo HTTP.md",
+    "italiano/Alessandro Manzoni.md",
+    "Relazione PCTO.md",
+    "sistemi/VPN.md",
     "sistemi/INDEX SISTEMI.md",
     "sistemi/Certification Authority (CA).md",
     "sistemi/Protocollo SSH.md",
     "sistemi/Protocollo SSL-TLS.md",
-    "sistemi/Crittografia.md",
-    "gpoi/Unità 3.md",
-    "Relazione PCTO.md",
-    "sistemi/Protocollo Telnet.md",
-    "sistemi/Protocollo FTP.md",
-    "sistemi/Protocollo HTTPS.md",
-    "sistemi/Protocollo HTTP.md",
-    "sistemi/Firewall.md",
-    "tpsit/Sistemi distribuiti.md",
-    "sistemi/VLAN.md",
-    "italiano/INDEX ITALIANO.md",
-    "sistemi/Wireless.md",
     "Senza nome.canvas",
-    "italiano/Gabriele D'Annunzio.md",
-    "italiano/Giovanni Pascoli.md",
-    "italiano/Decadentismo.md",
-    "italiano/Giovanni Verga.md",
-    "tpsit/Web Service.md",
-    "italiano/Primo '800.md",
     "italiano",
     "gpoi",
     "tpsit",
     "sistemi",
-    "informatica/Pasted image 20240603210211.png",
     "Storia",
     "informatica",
     "Excalidraw"

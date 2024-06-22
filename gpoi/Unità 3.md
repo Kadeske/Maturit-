@@ -14,17 +14,38 @@ Ogni progetto passa attraverso diverse fasi:
 4. **Monitoraggio e Controllo**
 5. **Chiusura**
 
+## Fasi e Obiettivi di un Progetto in particolare
+
+### 1. **Inizio**
+Questa fase consiste nell'avvio del progetto, dove viene identificata la necessità o l'opportunità da affrontare. Viene creato il **Project Charter**, che formalizza l'autorizzazione del progetto e definisce gli obiettivi principali, gli stakeholder coinvolti e le risorse necessarie. 
+
+### 2. **Pianificazione**
+In questa fase, vengono dettagliati i piani per raggiungere gli obiettivi del progetto. Si definiscono l'ambito, i deliverable, il budget, il cronoprogramma e i rischi. Viene sviluppata la **Work Breakdown Structure (WBS)**, che scompone il progetto in attività gestibili, e viene tracciato il **Diagramma di Gantt** per visualizzare le attività lungo una linea temporale.
+
+### 3. **Esecuzione**
+È la fase in cui il lavoro pianificato viene realizzato. Le risorse vengono assegnate e le attività vengono eseguite per produrre i deliverable. Il project manager coordina il team, gestisce le comunicazioni e risolve i problemi che possono sorgere.
+
+### 4. **Monitoraggio e Controllo**
+Durante questa fase, il progresso del progetto viene costantemente monitorato e confrontato con il piano iniziale. Si effettuano misurazioni delle performance e si implementano eventuali azioni correttive per mantenere il progetto in linea con tempi, costi e qualità. Viene aggiornata la documentazione e gestita la reportistica per gli stakeholder.
+
+### 5. **Chiusura**
+Questa fase segna la conclusione del progetto. Si effettuano le verifiche finali per assicurare che tutti gli obiettivi siano stati raggiunti e i deliverable completati. Viene creato il report finale, si analizzano le lezioni apprese e si formalizza la chiusura del progetto, liberando le risorse e trasferendo il controllo dei deliverable agli stakeholder appropriati.
+
+
 Ogni fase ha obiettivi specifici e richiede diverse attività e documenti di supporto, come il **Project Charter** e i **WorkPackage**.
 
 ## Pianificazione e Controllo
 La pianificazione coinvolge la definizione di obiettivi, deliverable, tempi e costi. Gli strumenti fondamentali includono:
 - **Diagramma di Gantt**: un diagramma che visualizza le attività del progetto lungo una linea temporale.
+![[diagramma_gnatt.jpg]]
 - **Definizione dei deliverable**: identificare i risultati specifici che devono essere consegnati.
 
-## Stakeholder e Sponsor
-- **Stakeholder**: qualsiasi persona o gruppo interessato o influenzato dal progetto.
-- **Sponsor**: la persona o il gruppo che fornisce le risorse finanziarie per il progetto.
 
+# ![[Stakeholder]]
+# ![[Deliverable]]
+
+
+# ![[Interviste]]
 ## Ruoli nel Project Management
 - **Project Manager**: il responsabile della pianificazione, esecuzione e chiusura del progetto. Si occupa di coordinare il team, gestire i rischi e assicurare che il progetto rimanga nei limiti di tempo e budget.
 
@@ -50,6 +71,7 @@ Gli obiettivi di un progetto possono essere:
 ## I Gruppi di Lavoro
 I gruppi di lavoro sono fondamentali per il successo di un progetto. Un team ben gestito e coeso può affrontare meglio le sfide e raggiungere gli obiettivi prefissati. La collaborazione e la comunicazione tra i membri del team sono cruciali per garantire l'efficacia del lavoro di gruppo.
 
+----------------------------------------------------------------
 ## Benefici delle Applicazioni Informatiche
 Le applicazioni informatiche offrono numerosi vantaggi nella gestione dei progetti, tra cui:
 - **Automatizzazione delle attività**: riduzione del tempo e degli errori.
