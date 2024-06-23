@@ -1,7 +1,7 @@
 - [[Fotografia d'Italia nel 1861]]
 - [[Questione meridionale]]
 - [[Seconda rivoluzione industriale]]
-- [[Belle èpoque]]
+- [[Belle Époque]]
 - [[Prima guerra mondiale]]
 - [[Errori di Versailles]]
 - [[Fascismo]]

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Belle èpoque.md",
+                "file": "Storia/Belle Époque.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "italiano/Alessandro Manzoni.md",
+                "file": "Storia/Fotografia d'Italia nel 1861.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e292623e0982de6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inglese/INDEX INGLESE.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "italiano/Alessandro Manzoni.md",
+                "file": "Inglese/INDEX INGLESE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "italiano/Alessandro Manzoni.md",
+                "file": "Inglese/INDEX INGLESE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "italiano/Alessandro Manzoni.md"
+                "file": "Inglese/INDEX INGLESE.md"
               }
             }
           }
@@ -223,45 +235,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e4ae5f9f34d79cb",
+  "active": "e292623e0982de6a",
   "lastOpenFiles": [
+    "Inglese/Modulo6.md",
+    "Inglese/Modulo5.md",
+    "Inglese/Modulo4.md",
+    "Inglese/Modulo2.md",
+    "Inglese/Modulo1.md",
+    "Inglese/INDEX INGLESE.md",
+    "italiano/Gabriele D'Annunzio.md",
+    "Inglese",
+    "italiano/Decadentismo.md",
+    "informatica/INDEX INFORMATICA.md",
+    "Storia/Errori di Versailles.md",
+    "tpsit/Sistemi distribuiti.md",
+    "gpoi/img/PTC_Documentation.pdf",
+    "tpsit/Architetture distribuite hardware.md",
+    "Storia/Belle Époque.md",
+    "Storia/Questione meridionale.md",
+    "Storia/Fotografia d'Italia nel 1861.md",
+    "italiano/Alessandro Manzoni.md",
     "italiano/Giovanni Verga.md",
     "Storia/Seconda rivoluzione industriale.md",
-    "Storia/Fotografia d'Italia nel 1861.md",
     "Storia/INDEX STORIA.md",
-    "Storia/Belle èpoque.md",
-    "Storia/Questione meridionale.md",
     "gpoi/INDEX GPOI.md",
-    "tpsit/Architetture distribuite hardware.md",
     "gpoi/Unità 3.md",
     "gpoi/Deliverable.md",
     "gpoi/Stakeholder.md",
     "gpoi/Interviste.md",
     "gpoi/Strutture organizzative.md",
     "informatica/Transazioni.md",
-    "informatica/INDEX INFORMATICA.md",
-    "sistemi/Firewall.md",
     "informatica/Pasted image 20240603210211.png",
     "gpoi/img/diagramma_gnatt.jpg",
     "gpoi/img/diagramma_gnatt.jpg.crdownload",
     "gpoi/img",
-    "gpoi/Unità 1.md",
-    "gpoi/Unità 2.md",
-    "sistemi/Protocollo HTTP.md",
-    "italiano/Alessandro Manzoni.md",
-    "Relazione PCTO.md",
-    "sistemi/VPN.md",
-    "sistemi/INDEX SISTEMI.md",
-    "sistemi/Certification Authority (CA).md",
-    "sistemi/Protocollo SSH.md",
-    "sistemi/Protocollo SSL-TLS.md",
     "Senza nome.canvas",
     "italiano",
     "gpoi",
     "tpsit",
     "sistemi",
     "Storia",
-    "informatica",
-    "Excalidraw"
+    "informatica"
   ]
 }

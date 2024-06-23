@@ -11,6 +11,9 @@ La Belle Époque rappresenta un periodo di grande progresso economico, sociale e
 - **Consumismo**: L'aumento della produzione porta anche a una maggiore disponibilità di beni di consumo, stimolando il consumismo e l'adozione di uno stile di vita più opulento e materialistico tra le classi medie e alte.
 - **Catena di Montaggio e Taylorismo**: L'introduzione della catena di montaggio da parte di Henry Ford e i principi del "taylorismo" (gestione scientifica del lavoro) migliorano l'efficienza produttiva, riducendo i costi e aumentando la velocità della produzione industriale.
 
+	**Definizione di consumismo**<br>
+	Il consumismo è un comportamento o una mentalità che promuove l'acquisto e il consumo eccessivo di beni e servizi, spesso con l'obiettivo di ottenere piacere personale, status sociale o gratificazione immediata.
+
 #### La Società di Massa
 
 - **Suffragio Universale Maschile**: Durante la Belle Époque, molti paesi occidentali adottano il suffragio universale maschile, ampliando il diritto di voto a tutti gli uomini adulti, indipendentemente dal censo.
