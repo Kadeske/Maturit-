@@ -58,8 +58,16 @@ Differenza tra sistemi distribuiti e paralleli:
 **Trasparenza:**
 
 - Vedere il sistema distribuito come un singolo elaboratore.
-- ANSA identifica 8 forme di trasparenza:
-    - Accesso, locazione, concorrenza, replicazione, guasti, migrazione, prestazioni, scalabilità.
+- **L’ANSA identifica 8 forme di trasparenza:**
+
+	1. **Trasparenza di accesso:** si devono nascondere le differenze nella rappresentazione dei dati, permettendo di accedere alle risorse locali e remote con le stesse operazioni.
+	2. **Trasparenza di locazione:** si deve nascondere l’ubicazione (fisico/logica) di un componente.
+	3. **Trasparenza di concorrenza:** si permette ai processi di operare in modalità concorrente.
+	4. **Trasparenza di replicazione:** le operazioni di duplicazione vengono effettuate a insaputa dell’utente, mantenendo gli stessi nomi per ogni risorsa.
+	5. **Trasparenza di guasti:** viene mascherato ogni guasto e operazione di riparazione.
+	6. **Trasparenza alla migrazione:** si nasconde l’eventuale spostamento (fisico/logico) di una risorsa senza interferire sul funzionamento del sistema.
+	7. **Trasparenza alle prestazioni:** vengono nascoste le operazioni necessarie per riconfigurare il sistema al variare del carico per migliorare le prestazioni.
+	8. **Trasparenza di scalabilità:** il sistema viene espanso senza interrompere o modificarne il funzionamento.
 
 **Economicità:**
 
