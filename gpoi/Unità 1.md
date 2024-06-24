@@ -36,8 +36,27 @@ Le aziende possono essere classificate in base a diversi criteri:
 - **Settore secondario**: Riguarda le attività manifatturiere e industriali. Questo settore trasforma le materie prime in prodotti finiti e comprende l'industria pesante (acciaierie, raffinerie) e l'industria leggera (produzione di beni di consumo).
 - **Settore terziario**: Includono i servizi di commercio, trasporti, comunicazioni, turismo, istruzione, sanità, e servizi finanziari. Questo settore è spesso il più grande in termini di occupazione e contribuzione al PIL nei paesi sviluppati.
 
+
+#### Calcolo del profitto
+
+Profitto = ricavi - costi
+
+##### Esempio
+| Quantità | Ricavi  | Costi   | Profitto |
+| -------- | ------- | ------- | -------- |
+| 0        | € 0,00  | € 10,00 | -€ 10,00 |
+| 1        | € 10,00 | € 11,00 | -€ 1,00  |
+| 2        | € 20,00 | € 14,00 | € 6,00   |
+| 3        | € 30,00 | € 19,00 | € 11,00  |
+| 4        | € 40,00 | € 35,00 | € 5,00   |
+| 5        | € 50,00 | € 60,00 | -€ 10,00 |
+
+![[grafico_ricavi_costi_profitto.png]]
+
 #### Calcolare la quantità di pareggio
 **Quantità di pareggio (Break-even point)**: È il livello di vendite al quale i ricavi totali sono uguali ai costi totali, risultando in un profitto nullo. Questo punto è cruciale per le aziende poiché indica il volume minimo di vendite necessario per evitare perdite.
+
+![[grafico-break-even-point.webp]]
 
 **Formula**:
 $$BEP = \frac{Costi.fissi}{Costo.di.vendita.unitario - Costo.variabile.unitario} $$

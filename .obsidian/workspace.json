@@ -4,107 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "d33954257a8d2a0b",
+        "id": "c2e3b3901381fada",
         "type": "tabs",
         "children": [
           {
-            "id": "e1a58395fc0d47df",
+            "id": "fb5786e708e1bd00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/INDEX STORIA.md",
+                "file": "gpoi/Unità 3.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "dbaaffc570b04df0",
+            "id": "582eb5e469119523",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Belle Époque.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a0518c4addca440",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia/Seconda rivoluzione industriale.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebbd195e3852435d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia/Questione meridionale.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36c1eb11f7b0eebf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia/Seconda rivoluzione industriale.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1a14c4f4bf716ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "italiano/Giovanni Verga.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e4ae5f9f34d79cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storia/Fotografia d'Italia nel 1861.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e292623e0982de6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gpoi/Strutture organizzative.md",
+                "file": "gpoi/Unità 1.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gpoi/Strutture organizzative.md",
+                "file": "gpoi/Unità 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gpoi/Strutture organizzative.md",
+                "file": "gpoi/Unità 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gpoi/Strutture organizzative.md"
+                "file": "gpoi/Unità 3.md"
               }
             }
           }
@@ -235,13 +162,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e292623e0982de6a",
+  "active": "fb5786e708e1bd00",
   "lastOpenFiles": [
     "gpoi/Unità 2.md",
-    "tpsit/Web Service.md",
-    "tpsit/Sistemi distribuiti.md",
+    "gpoi/Unità 1.md",
+    "gpoi/INDEX GPOI.md",
+    "Storia/Prima guerra mondiale.md",
+    "Storia/Fascismo.md",
+    "Storia/Errori di Versailles.md",
+    "Storia/INDEX STORIA.md",
+    "Storia/Seconda rivoluzione industriale.md",
+    "Storia/Belle Époque.md",
+    "Unità1.md",
     "tpsit/Architetture distribuite hardware.md",
     "tpsit/Architettura client-server.md",
+    "tpsit/Sistemi distribuiti.md",
+    "Storia/Questione meridionale.md",
+    "Storia/Fotografia d'Italia nel 1861.md",
+    "gpoi/img/grafico_ricavi_costi_profitto.png",
+    "gpoi/Unità 3.md",
+    "gpoi/img/grafico-break-even-point.webp",
+    "gpoi/Strutture organizzative.md",
+    "tpsit/Web Service.md",
     "italiano/Primo '800.md",
     "italiano/INDEX ITALIANO.md",
     "Inglese/Modulo2.md",
@@ -249,22 +191,9 @@
     "Inglese/Modulo1.md",
     "Inglese/INDEX INGLESE.md",
     "informatica/Discorso generale.md",
-    "gpoi/Unità 3.md",
-    "gpoi/Unità 1.md",
     "Inglese/Modulo5.md",
-    "Inglese/Modulo6.md",
-    "italiano/Gabriele D'Annunzio.md",
     "Inglese",
-    "italiano/Decadentismo.md",
-    "informatica/INDEX INFORMATICA.md",
-    "Storia/Errori di Versailles.md",
     "gpoi/img/PTC_Documentation.pdf",
-    "Storia/Belle Époque.md",
-    "Storia/Questione meridionale.md",
-    "Storia/Fotografia d'Italia nel 1861.md",
-    "italiano/Alessandro Manzoni.md",
-    "italiano/Giovanni Verga.md",
-    "Storia/Seconda rivoluzione industriale.md",
     "informatica/Pasted image 20240603210211.png",
     "gpoi/img/diagramma_gnatt.jpg",
     "gpoi/img/diagramma_gnatt.jpg.crdownload",

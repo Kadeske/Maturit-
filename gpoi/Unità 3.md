@@ -40,6 +40,7 @@ La pianificazione coinvolge la definizione di obiettivi, deliverable, tempi e co
 ![[diagramma_gnatt.jpg]]
 - **Definizione dei deliverable**: identificare i risultati specifici che devono essere consegnati.
 
+# ![[Strutture organizzative]]
 
 # ![[Stakeholder]]
 # ![[Deliverable]]

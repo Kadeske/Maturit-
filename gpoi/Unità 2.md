@@ -1,8 +1,3 @@
-
-Ecco la riorganizzazione del testo con enfasi e markup adatti per Obsidian:
-
----
-
 # Elementi di Organizzazione Aziendale
 
 ## Meccanismi di Coordinamento

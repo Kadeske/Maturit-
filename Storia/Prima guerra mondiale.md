@@ -1,11 +1,23 @@
 
-#### Estate 1914: l'Europa nella spirale della guerra
+#### **Estate 1914: l'Europa nella spirale della guerra**
 
-Il 28 giugno 1914, l'assassinio dell'arciduca Francesco Ferdinando a Sarajevo scatenò una serie di eventi che portarono alla guerra. L'Austria-Ungheria dichiarò guerra alla Serbia, provocando l'intervento della Russia a fianco dei serbi. La Germania, alleata dell'Austria-Ungheria, dichiarò guerra alla Russia e invase il Belgio neutrale per attaccare la Francia. Questo atto portò l'Inghilterra a dichiarare guerra alla Germania, formando due blocchi contrapposti: la Triplice Alleanza (Germania, Austria-Ungheria, Italia - inizialmente neutrale) e la Triplice Intesa (Gran Bretagna, Francia, Russia)​​.
+Il **28 giugno 1914**, l'assassinio dell'**arciduca Francesco Ferdinando** a Sarajevo scatenò una serie di eventi che portarono alla guerra.  
+L'**Austria-Ungheria** dichiarò guerra alla **Serbia**, provocando l'intervento della **Russia** a fianco dei serbi per difendere gli interessi slavi nei Balcani. La **Germania**, alleata dell'Austria-Ungheria, dichiarò guerra alla Russia e invase il **Belgio neutrale** per attaccare la **Francia**, temendo una guerra su due fronti e cercando di ottenere una rapida vittoria in Occidente. Questo atto portò l'**Inghilterra** a dichiarare guerra alla Germania per proteggere il Belgio e mantenere l'equilibrio di potere in Europa. Si formarono così due blocchi contrapposti:
 
-#### Neutralisti e interventisti in Italia
+- La **Triplice Alleanza**: Germania, Austria-Ungheria e Italia (inizialmente neutrale).
+- La **Triplice Intesa**: Gran Bretagna, Francia e Russia.
 
-In Italia, il dibattito tra neutralisti e interventisti era acceso. I neutralisti, tra cui socialisti e cattolici, erano contrari alla guerra per motivi umanitari e strategici. Gli interventisti, tra cui nazionalisti e alcune fazioni liberali, vedevano nella guerra un'opportunità per completare l'unificazione nazionale e ottenere territori italiani sotto dominio austriaco. Alla fine, l'Italia firmò il Patto di Londra nel 1915, impegnandosi ad entrare in guerra a fianco dell'Intesa in cambio di promesse territoriali​​.
+Gli **obiettivi reali** della Germania includevano il **rafforzamento** della sua posizione come **potenza mondiale**, l'**espansione territoriale** e il **contenimento** della Russia e della Francia. La **paura** dell'Inghilterra era di vedere il continente europeo dominato da una sola potenza, minacciando così i suoi interessi globali e marittimi.
+
+---
+
+#### **Neutralisti e interventisti in Italia**
+
+In **Italia**, il dibattito tra **neutralisti** e **interventisti** era **acceso**. I **neutralisti**, tra cui **socialisti** e **cattolici**, erano contrari alla guerra per motivi **umanitari** e **strategici**. Essi volevano evitare una guerra sanguinosa e sostenevano che l'Italia non avesse nulla da guadagnare. Alcuni neutralisti, inoltre, volevano rispettare i **patti con l'Austria**, poiché l'Italia era parte della Triplice Alleanza.
+
+Gli **interventisti**, tra cui **nazionalisti** e alcune fazioni **liberali**, vedevano nella guerra un'opportunità per completare l'**unificazione nazionale** e ottenere territori italiani sotto dominio austriaco, come il **Trentino** e la **Venezia Giulia**. Essi ritenevano che l'intervento avrebbe portato prestigio e potenza all'Italia.
+
+Alla fine, l'**Italia** firmò il **Patto di Londra** il **26 aprile 1915**, impegnandosi ad entrare in guerra a fianco dell'**Intesa** in cambio di promesse **territoriali**. Questo patto fu firmato in segreto dai rappresentanti del governo italiano, tra cui il primo ministro **Antonio Salandra** e il ministro degli Esteri **Sidney Sonnino**. Solo pochi membri del governo e degli alti comandi militari erano a conoscenza del Patto di Londra. Il contenuto del patto prevedeva che, in caso di vittoria dell'Intesa, l'Italia avrebbe ottenuto il controllo su diverse regioni, tra cui il **Trentino**, il **Tirolo meridionale**, la **Venezia Giulia** e parte della **Dalmazia**. Inoltre, l'Italia avrebbe ricevuto compensazioni territoriali nelle colonie e una parte dei guadagni derivanti dalla spartizione dell'Impero Ottomano.
 
 #### Due fronti in Europa: occidentale e orientale
 
