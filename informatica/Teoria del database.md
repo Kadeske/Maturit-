@@ -3,6 +3,8 @@ Un **dato** è la descrizione elementare di una cosa o un avvenimento.
 
 L'**informazione** è il dato interpretato in un determinato contesto.
 
+Un **database** è una raccolta **organizzata** di dati strutturati per renderli facilmente accessibili, gestibili e aggiornabili.
+
 All'interno di un database le **informazioni** sono **disposte** in maniera tale che si possa facilmente:
 - **Recuperarle**
 - **Aggiungerne** di nuove
@@ -15,10 +17,10 @@ La **teoria sulle basi** di dati studia come organizzare al meglio grandi quanti
 Una **base di dati** può essere considerata una **raccolta di dati logicamente correlati**.
 
 La **gestione** deve essere:
-	- *SEMPLICE* -> deve essere utilizzabile da persone diverse con applicazioni diverse
-	- *EFFICIENTE* -> Ottimizzato in quanto tempo e spazio
-	- *EFFICACE* -> Le informazioni devono rappresentare la realtà
-	- *SICURO* -> le operazioni devono essere consentite solo a utenti identificati e autorizzati
+- *SEMPLICE* -> deve essere utilizzabile da persone diverse con applicazioni diverse
+- *EFFICIENTE* -> Ottimizzato in quanto tempo e spazio
+- *EFFICACE* -> Le informazioni devono rappresentare la realtà
+- *SICURO* -> le operazioni devono essere consentite solo a utenti identificati e autorizzati
 
 
 <mark style="background: #FFF3A3A6;">CARATTERISTICHE </mark>

@@ -32,6 +32,9 @@ Il romanzo subì numerose revisioni per migliorare la leggibilità e l'efficacia
   - **Fiducia nella giustizia divina**: la virtù non garantisce felicità terrena, ma avvicina a Dio.
 
 ##### Stile e tecniche narrative
+
+Manzoni desiderava l'unità d'Italia, per questo motivo, nelle sue opere utilizzava un linguaggio misto di tutte le lingue principali presenti nella futura nazione italiana.
+
 Manzoni adotta uno stile semplice e accessibile, contrastando il linguaggio aulico del Neoclassicismo. La narrazione è caratterizzata da:
 - **Ironia**: rivolta verso se stesso, i personaggi e i lettori.
 - **Documentazione storica**: uso di fonti storiche per conferire realismo.

@@ -40,7 +40,7 @@ La pianificazione coinvolge la definizione di obiettivi, deliverable, tempi e co
 ![[diagramma_gnatt.jpg]]
 - **Definizione dei deliverable**: identificare i risultati specifici che devono essere consegnati.
 
-# ![[Strutture organizzative]]
+
 
 # ![[Stakeholder]]
 # ![[Deliverable]]
@@ -71,6 +71,8 @@ Gli obiettivi di un progetto possono essere:
 
 ## I Gruppi di Lavoro
 I gruppi di lavoro sono fondamentali per il successo di un progetto. Un team ben gestito e coeso può affrontare meglio le sfide e raggiungere gli obiettivi prefissati. La collaborazione e la comunicazione tra i membri del team sono cruciali per garantire l'efficacia del lavoro di gruppo.
+
+# ![[Strutture organizzative]]
 
 ----------------------------------------------------------------
 ## Benefici delle Applicazioni Informatiche

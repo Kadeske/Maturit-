@@ -2,7 +2,7 @@
 - [[Teoria del database]] (Dati, Informazioni, caratteristiche db)
 - [[Sistema informativo]] 
 - [[Sistema informatico]] (cosa è, ciclo di vita)
-- [[Archivio]] INCOMPLETO
+- [[Archivio]] 
 - differenza tra archivio e db -> correlazione logica dei dati
 - [[DBMS (Database Management System)]]
 	- [[Fault tolerance]]

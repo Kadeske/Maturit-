@@ -7,9 +7,7 @@
 
 ## Operating Systems
 
-- **Definition**: Software that manages computer hardware and software resources and provides common services for computer programs.
-- **Functions**: Process management, Memory management, File system management, Device management, Security, and User Interface.
-- **Types**: Batch Operating System, Time-Sharing Operating System, Distributed Operating System, Network Operating System, Real-Time Operating System.
+- **Definition**: **Operating system (OS)**, program that manages a [computer](https://www.britannica.com/technology/computer)’s resources, especially the allocation of those resources among other programs.
 
 ## Windows Multitasking
 

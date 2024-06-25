@@ -13,7 +13,7 @@ Es. prelievo da sportello atm
 | BEGIN               | Inizio transazione                                 |
 | ------------------- | -------------------------------------------------- |
 | ABORTED             | Transazione annullata                              |
-| COMMITTED           | Transazione annullata                              |
+| COMMITTED           | Transazione terminata con successo ed inviata      |
 | PARTIALLY COMMITTED | Transazione terminata con successo ma non inviata. |
 
 

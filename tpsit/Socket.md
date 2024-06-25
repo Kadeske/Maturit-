@@ -57,7 +57,7 @@ Il **socket** è il meccanismo con cui avviene l’identificazione univoca di un
 
 ### Da Cosa è Composto un Socket?
 
-Un socket è composto dalla coppia <indirizzo IP:numero porta>.
+Un socket è composto dalla coppia {indirizzo IP:numero porta}.
 
 ### A Cosa Serve un Socket?
 

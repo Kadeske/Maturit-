@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gpoi/Unità 3.md",
+                "file": "Inglese/INDEX INGLESE.md",
                 "mode": "preview",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gpoi/Unità 1.md",
+                "file": "Inglese/INDEX INGLESE.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gpoi/Unità 3.md",
+                "file": "Inglese/INDEX INGLESE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "gpoi/Unità 3.md",
+                "file": "Inglese/INDEX INGLESE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "gpoi/Unità 3.md"
+                "file": "Inglese/INDEX INGLESE.md"
               }
             }
           }
@@ -162,36 +163,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb5786e708e1bd00",
+  "active": "582eb5e469119523",
   "lastOpenFiles": [
-    "gpoi/Unità 2.md",
-    "gpoi/Unità 1.md",
-    "gpoi/INDEX GPOI.md",
-    "Storia/Prima guerra mondiale.md",
-    "Storia/Fascismo.md",
-    "Storia/Errori di Versailles.md",
-    "Storia/INDEX STORIA.md",
-    "Storia/Seconda rivoluzione industriale.md",
-    "Storia/Belle Époque.md",
-    "Unità1.md",
-    "tpsit/Architetture distribuite hardware.md",
-    "tpsit/Architettura client-server.md",
-    "tpsit/Sistemi distribuiti.md",
-    "Storia/Questione meridionale.md",
-    "Storia/Fotografia d'Italia nel 1861.md",
-    "gpoi/img/grafico_ricavi_costi_profitto.png",
-    "gpoi/Unità 3.md",
-    "gpoi/img/grafico-break-even-point.webp",
-    "gpoi/Strutture organizzative.md",
-    "tpsit/Web Service.md",
-    "italiano/Primo '800.md",
-    "italiano/INDEX ITALIANO.md",
-    "Inglese/Modulo2.md",
-    "Inglese/Modulo4.md",
     "Inglese/Modulo1.md",
     "Inglese/INDEX INGLESE.md",
-    "informatica/Discorso generale.md",
-    "Inglese/Modulo5.md",
+    "tpsit/INDEX TPSIT.md",
+    "Storia/INDEX STORIA.md",
+    "sistemi/INDEX SISTEMI.md",
+    "italiano/INDEX ITALIANO.md",
+    "informatica/INDEX INFORMATICA.md",
+    "gpoi/INDEX GPOI.md",
+    "sistemi/Wireless.md",
+    "sistemi/VLAN.md",
+    "sistemi/Protocollo HTTPS.md",
+    "sistemi/Protocollo SSL-TLS.md",
+    "sistemi/Protocollo HTTP.md",
+    "italiano/Giovanni Verga.md",
+    "gpoi/Unità 3.md",
+    "informatica/Stored routine.md",
+    "informatica/Stored function.md",
+    "informatica/Stored Procedure.md",
+    "informatica/Anomalie.md",
+    "informatica/Lock.md",
+    "informatica/Proprietà ACID.md",
+    "informatica/Transazioni.md",
+    "informatica/Partecipazione.md",
+    "informatica/Molteplicità.md",
+    "informatica/Vincoli di integrità.md",
+    "informatica/Realizzazione di un database.md",
+    "gpoi/img/grafico_ricavi_costi_profitto.png",
+    "gpoi/img/grafico-break-even-point.webp",
     "Inglese",
     "gpoi/img/PTC_Documentation.pdf",
     "informatica/Pasted image 20240603210211.png",

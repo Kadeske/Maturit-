@@ -35,7 +35,7 @@
 <br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-# Traccia personale
+# Traccia personale (non usatelo)
 
 Linux itself is not an Operating System, it is a Kernel.
 A kernel is the core of the OS, it manage the communication between the software and the hardware components. It's responsible of: Process management, memory allocations, device management and system calls.
